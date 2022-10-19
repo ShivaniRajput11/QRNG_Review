@@ -4,7 +4,7 @@
 
 5 Qubits - ibmq_manila
 
-7 Qubits - ibmq_nairobi
+7 Qubits - ibmq_nairobi(job is still queued),statevector_simulator
 
 ## Using local simulator
 
