@@ -1,4 +1,4 @@
-# QRNG-IBM-_Review
+# QRNG_Review
 
 ## Using IBM Quantum Experince
 
